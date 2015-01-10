@@ -1,5 +1,5 @@
-# jttqhh
-Oculus Rift Development Kit 1
+
+#Oculus Rift Development Kit 1
 Firmware, Schematics, and Mechanicals for the Oculus Rift Development Kit 1.
 
 Firmware
